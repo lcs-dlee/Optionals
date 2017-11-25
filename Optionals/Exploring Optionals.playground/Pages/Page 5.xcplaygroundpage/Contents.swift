@@ -13,7 +13,7 @@
  
  */
 // Type your code below this line
-var dayOfWeek : String?
+var dayOfWeek : String? = "Monday"
 if dayOfWeek != nil {
     print("The day is \(dayOfWeek)")
 } else {
