@@ -11,3 +11,5 @@
  
  */
 //: [Next](@next)
+var myName : String // not optional: will never be nil
+var yourName : String? // optional: may contain nil
