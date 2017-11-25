@@ -14,7 +14,7 @@
 var x : Int? = 3
 var y : Int? = 4
 
-if let notNilX = x, let notNilY = {
+if let notNilX = x, let notNilY = y {
     notNilX * notNilY
     } else {
     print("Cannot compute, x, y, or both are nil")
